@@ -4,3 +4,9 @@
 [submodule "evm-benchmarks"]
 	path = test/evm-benchmarks
 	url = https://github.com/ipsilon/evm-benchmarks
+[submodule "intx"]
+	path = intx
+	url = https://github.com/chfast/intx.git
+[submodule "ethash"]
+	path = ethash
+	url = https://github.com/chfast/ethash.git
